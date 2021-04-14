@@ -1,0 +1,16 @@
+
+.section--flex{
+  margin: 7rem 0;
+  display: flex;
+}
+
+
+.section__texts{
+  margin-top: 4rem;
+  margin-left: 20rem;
+}
+
+.section__text{
+  margin-bottom: 4rem;
+  width: 24rem;
+}

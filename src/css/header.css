@@ -1,0 +1,24 @@
+.header{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header--margin{
+  background-image: url('../images/bg-header-desktop.png');
+  background-size: cover;
+  margin-bottom: 10rem;
+  padding-top: 8rem;
+}
+
+.header__title{
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  font-size: 34px;
+}
+
+.header__subtitle{
+  font-weight: 400;
+  width: 35rem;
+  margin-bottom: 3rem;
+}

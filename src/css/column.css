@@ -1,0 +1,13 @@
+.column{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.column__block{
+  text-align: center;
+}
+
+.column__block > p{
+  width: 24rem;
+}
